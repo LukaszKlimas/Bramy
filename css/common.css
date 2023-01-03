@@ -1,0 +1,9 @@
+button {
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+
+.range-input {
+    padding: 8px;
+    font: inherit;
+  }
